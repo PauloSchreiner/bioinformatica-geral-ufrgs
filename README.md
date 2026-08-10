@@ -1,1 +1,1 @@
-# BioinformaticaGeralUFRGS
+# Bioinformática Geral UFRGS
