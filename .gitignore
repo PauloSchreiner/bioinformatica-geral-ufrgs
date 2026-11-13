@@ -1,4 +1,5 @@
-.fastq
+# Sequenciamento e arquivos grandes
+*.fastq
 *.fastq.gz
 *.fq
 *.fq.gz
@@ -7,20 +8,46 @@
 *.fna
 *.bam
 *.bai
+*.sam
 *.fai
 
-*.sam
-
+# Índices de referência
 *.bwt
 *.pac
 *.ann
 *.amb
 *.sa
 
-
+# Dados e referências
 reads/
 ncbi_dataset/
+tarefa-1/ref/
+tarefa-2/referencia/
+tarefa-2/hisat2_grch38/
 
-.DS_Store
+# Resultados intermediários da tarefa 2
+tarefa-2/aligned/
+tarefa-2/counts/
+tarefa-2/qc_raw/
+tarefa-2/subamostras/
+tarefa-2/subamostras_5M/
+
+# GSE328925
+tarefa-3/GSE328925/data/
+tarefa-3/GSE328925/results/*.rds
+tarefa-3/GSE328925/results/*.RDS
+tarefa-3/GSE328925/results/*.RData
+tarefa-3/GSE328925/results/*.rda
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Temporários e sistema
 *.tmp
+*.temp
 *.log
+.DS_Store
+Thumbs.db
