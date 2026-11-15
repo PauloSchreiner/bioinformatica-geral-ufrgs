@@ -1,0 +1,28 @@
+"cluster","tipo_celular","compartimento","marcadores_chave","evidencia","confianca","ordem"
+"9","Epitelio AT2 / Club","Epitelio","Sftpc;Sftpb;Sftpa1;Scgb3a2;Scgb1a1;Epcam","Sftpc/Sftpb/Sftpa1 (AT2) e Scgb1a1/Scgb3a2 (Club) altos no mesmo cluster: na resolucao 0.5 as duas populacoes epiteliais distais nao se separaram.","media",1
+"16","Epitelio AT1","Epitelio","Rtkn2;Ager;Hopx;Pdpn;Cldn18;Krt8","Rtkn2 e Ager sao especificos de AT1; Hopx/Pdpn/Cldn18 confirmam. Epcam+ e Pecam1-.","alta",2
+"23","Celulas ciliadas","Epitelio","Foxj1;Dynlrb2;Mapk15;Daw1;Pifo","Foxj1 (fator mestre do cilio) em z=5.0 com Epcam alto e bateria de genes ciliares.","alta",3
+"0","Endotelio capilar geral (gCap)","Endotelio","Pecam1;Cldn5;Gpihbp1;Aplnr;Kit;Sema3g","Gpihbp1 em 83% das celulas e Aplnr/Kit; Car4 baixo (22%) e Gja5 quase ausente (4%) descartam aerocito e arteria.","alta",4
+"7","Endotelio aerocito (aCap / Car4+)","Endotelio","Car4;Apln;Ednrb","Car4 em 94% e Apln em 66% das celulas: assinatura classica do capilar aerocito que faz troca gasosa com AT1.","alta",5
+"14","Endotelio venoso","Endotelio","Vwf;Slc6a2;Selp;Cytl1","Vwf em 95% e Slc6a2 em 71%; Car4 e Aplnr baixos. Slc6a2 e marcador venoso pulmonar.","alta",6
+"21","Endotelio linfatico","Endotelio","Prox1;Ccl21a;Mmrn1;Lyve1","Prox1 e Ccl21a em z=5.0, Mmrn1 alto: linfatico inequivoco.","alta",7
+"2","Fibroblastos alveolares","Mesenquima","Pdgfra;Npnt;Wnt2;Col1a1;Gsn;Dcn","Pdgfra/Npnt/Wnt2 definem o fibroblasto alveolar; Col1a1+ e Acta2 baixo excluem miofibroblasto.","alta",8
+"15","Fibroblastos alveolares","Mesenquima","Inmt;Cxcl14;Mfap4;Gpx3;Rbp1","Mesma identidade do cluster 2 (Wnt2/Npnt/Pdgfra) com perfil Inmt/Cxcl14 mais acentuado; mantido sob o mesmo rotulo.","alta",8
+"17","Fibroblastos adventiciais","Mesenquima","Scara5;Dcn;Lum;Serpinf1;Ccl11","Scara5 em z=5.0 com Dcn/Lum/Col1a1 altos: fibroblasto adventicial peribroncovascular.","alta",9
+"18","Musculo liso","Mesenquima","Myocd;Cnn1;Myh11;Acta2;Tagln;Actg2","Myocd (fator mestre) + Myh11 + Cnn1 + Acta2: musculo liso verdadeiro, nao miofibroblasto.","alta",10
+"19","Pericitos","Mesenquima","Notch3;Pdgfrb;Rgs5;Postn;Trpc6","Notch3/Pdgfrb/Rgs5 altos com Myh11 intermediario e Col1a1 baixo: pericito mural.","alta",11
+"24","Mesotelio","Mesenquima","Msln;Upk3b;Wt1;Lrrn4","Msln em z=5.0 com Upk3b e Wt1: mesotelio pleural.","alta",12
+"4","Macrofagos alveolares","Mieloide","Marco;Ear2;Atp6v0d2;Krt79;Itgax;Fabp1","Marco e Ear2 muito altos com Krt79/Atp6v0d2; C1qa baixo separa do macrofago intersticial.","alta",13
+"13","Macrofagos intersticiais","Mieloide","C1qa;C1qb;C1qc;Folr2;Ms4a7;Mmp12","Complemento C1q com Folr2/Ms4a7/Fcrls; Marco baixo.","alta",14
+"6","Monocitos","Mieloide","Plac8;Ccr2;Adgre4;Cd300e;Ly6i","Plac8/Ccr2 (monocito classico Ly6C+) e Adgre4/Cd300e; sem C1q nem Marco.","alta",15
+"12","Celulas dendriticas","Mieloide","Cd209a;Xcr1;Ccl17;Ccl22;Cd207;Flt3","Xcr1 (cDC1) e Cd209a (cDC2) ambos em z=4.9, com Ccl17/Ccl22 e Cd207: cluster de DCs convencionais.","alta",16
+"8","Neutrofilos","Mieloide","S100a8;S100a9;Retnlg;Cxcr2;Il1b;Mmp9","S100a8/S100a9 em z=4.9 com Retnlg e Cxcr2; menor conteudo de RNA (mediana 2846 UMIs), tipico de neutrofilo.","alta",17
+"20","Celulas em proliferacao","Proliferativas","Mki67;Top2a;Pclaf;Cenpf;Ccna2","Mki67 em 80% e Top2a em 74% das celulas; Ptprc em 86% e Lyz2 em 74% indicam origem sobretudo mieloide. Cpa3 aparece em apenas 12%, entao NAO e um cluster de mastocitos.","alta",18
+"3","Linfocitos T naive / CD8","Linfoide","Cd3e;Cd8b1;Lef1;Dapl1;Themis","Cd3e com Cd8a/Cd8b1 e Lef1 (naive); Foxp3 baixo.","alta",19
+"5","Linfocitos T efetores / Treg","Linfoide","Foxp3;Ctla4;Icos;Il2ra;Cd40lg;Cxcr6","Foxp3 em z=4.5 com Ctla4/Icos/Il2ra: T reguladoras e T efetoras ativadas.","alta",20
+"11","Celulas NK","Linfoide","Ncr1;Klrb1c;Gzma;Klra8;Prf1","Ncr1 e Klrb1c em z=5.0 com granzimas; Cd3e baixo exclui T.","alta",21
+"1","Linfocitos B","Linfoide","Ms4a1;Cd79a;Cd19;Pax5;Ighd;Bank1","Ms4a1/Cd79a/Cd19/Pax5; Ighd indica B folicular maduro.","alta",22
+"22","Plasmocitos","Linfoide","Jchain;Igha;Tnfrsf17;Derl3;Igkc","Jchain em z=4.8 com imunoglobulinas e Tnfrsf17 (BCMA); Ms4a1 baixo confirma diferenciacao terminal.","alta",23
+"10","Baixa qualidade / RNA ambiente","Tecnico","Pecam1;Cldn5;Cldn18;Ager","Mediana de apenas 1397 UMIs (a MENOR de todos os 27 clusters) e nenhum marcador com z>2.5. Mistura marcadores endoteliais (Pecam1 65%, Cldn5 72%) com transcritos alveolares (Ager 31%, Cldn18 34%) - padrao de celula pobre em RNA contaminada por RNA ambiente, nao de um tipo celular real.","alta",24
+"25","Doublets provaveis (linfocito + endotelio)","Tecnico","Cd3e;Pecam1;Cldn5","Co-expressao obrigatoria de Cd3e (79%) com Pecam1 (97%) e Cldn5 (98%) em celulas com mediana de 10521 UMIs (muito acima da media): assinatura classica de doublet T + endotelio.","alta",25
+"26","Doublets provaveis (linfocito + endotelio)","Tecnico","Cd79a;Pecam1;Cldn5","Cd79a (98%) junto com Pecam1 (96%) e Cldn5 (91%), mediana de 8511 UMIs: doublet B + endotelio.","alta",25

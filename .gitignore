@@ -34,6 +34,8 @@ tarefa-2/subamostras_5M/
 
 # GSE328925
 tarefa-3/GSE328925/data/
+# metadados de 20 mil células: regerável pela etapa 04, pesa 11 MB
+tarefa-3/GSE328925/results/04_metadados_das_celulas.csv
 tarefa-3/GSE328925/results/*.rds
 tarefa-3/GSE328925/results/*.RDS
 tarefa-3/GSE328925/results/*.RData
@@ -51,3 +53,4 @@ tarefa-3/GSE328925/results/*.rda
 *.log
 .DS_Store
 Thumbs.db
+.Rproj.user

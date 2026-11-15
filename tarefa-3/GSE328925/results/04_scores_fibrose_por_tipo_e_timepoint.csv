@@ -1,0 +1,101 @@
+"tipo_celular","sample","score_MEC_medio","score_mio_medio","n"
+"Epitelio AT2 / Club","Control",-0.1074,-0.0822,226
+"Epitelio AT2 / Club","D21",-0.0217,-0.0403,135
+"Epitelio AT2 / Club","D42",-0.115,-0.0344,143
+"Epitelio AT2 / Club","D63",-0.1657,-0.0826,174
+"Epitelio AT1","Control",0.1104,-0.1024,103
+"Epitelio AT1","D21",0.1489,-0.0931,73
+"Epitelio AT1","D42",0.07,-0.0971,98
+"Epitelio AT1","D63",0.0709,-0.0594,98
+"Celulas ciliadas","Control",-0.3865,-0.1569,18
+"Celulas ciliadas","D21",-0.3849,-0.1436,19
+"Celulas ciliadas","D42",-0.4205,-0.179,13
+"Celulas ciliadas","D63",-0.3364,-0.1519,20
+"Endotelio capilar geral (gCap)","Control",-0.1524,-0.0514,996
+"Endotelio capilar geral (gCap)","D21",-0.0748,-0.0389,838
+"Endotelio capilar geral (gCap)","D42",-0.1673,-0.0361,895
+"Endotelio capilar geral (gCap)","D63",-0.1521,-0.0377,996
+"Endotelio aerocito (aCap / Car4+)","Control",-0.3601,-0.0715,264
+"Endotelio aerocito (aCap / Car4+)","D21",-0.2752,-0.0601,211
+"Endotelio aerocito (aCap / Car4+)","D42",-0.3598,-0.066,295
+"Endotelio aerocito (aCap / Car4+)","D63",-0.3253,-0.0622,213
+"Endotelio venoso","Control",-0.1616,0.0589,113
+"Endotelio venoso","D21",-0.0826,0.0348,124
+"Endotelio venoso","D42",-0.2025,0.0712,96
+"Endotelio venoso","D63",-0.1507,0.0615,137
+"Endotelio linfatico","Control",-0.1086,-0.0078,51
+"Endotelio linfatico","D21",-0.0888,0.0265,38
+"Endotelio linfatico","D42",-0.1903,-0.0028,48
+"Endotelio linfatico","D63",-0.2094,0.0038,40
+"Fibroblastos alveolares","Control",1.1436,0.1387,559
+"Fibroblastos alveolares","D21",1.6331,0.2235,499
+"Fibroblastos alveolares","D42",1.0284,0.1972,484
+"Fibroblastos alveolares","D63",1.0651,0.1986,589
+"Fibroblastos adventiciais","Control",1.7496,0.0035,112
+"Fibroblastos adventiciais","D21",2.098,0.0496,65
+"Fibroblastos adventiciais","D42",1.2697,0.0653,79
+"Fibroblastos adventiciais","D63",1.5162,0.0043,83
+"Musculo liso","Control",0.9027,1.157,95
+"Musculo liso","D21",1.4988,1.2559,73
+"Musculo liso","D42",0.7091,1.0573,69
+"Musculo liso","D63",0.7765,1.0389,64
+"Pericitos","Control",0.7509,0.0046,94
+"Pericitos","D21",0.873,0.0509,60
+"Pericitos","D42",0.6613,0.0252,44
+"Pericitos","D63",0.7698,0.0418,52
+"Mesotelio","Control",0.7001,-0.1047,16
+"Mesotelio","D21",1.1423,-0.1127,10
+"Mesotelio","D42",0.3125,-0.0931,20
+"Mesotelio","D63",0.5118,-0.1187,20
+"Macrofagos alveolares","Control",-0.2732,-0.1041,296
+"Macrofagos alveolares","D21",-0.1113,-0.0886,354
+"Macrofagos alveolares","D42",-0.211,-0.0859,331
+"Macrofagos alveolares","D63",-0.1929,-0.091,257
+"Macrofagos intersticiais","Control",-0.3042,-0.074,45
+"Macrofagos intersticiais","D21",-0.1404,-0.0675,198
+"Macrofagos intersticiais","D42",-0.2623,-0.053,125
+"Macrofagos intersticiais","D63",-0.2581,-0.0527,107
+"Monocitos","Control",-0.3047,-0.0582,269
+"Monocitos","D21",-0.2611,-0.0503,258
+"Monocitos","D42",-0.3138,-0.054,238
+"Monocitos","D63",-0.2639,-0.0521,241
+"Celulas dendriticas","Control",-0.3973,-0.0609,98
+"Celulas dendriticas","D21",-0.3106,-0.0504,159
+"Celulas dendriticas","D42",-0.3722,-0.0579,134
+"Celulas dendriticas","D63",-0.3674,-0.0571,99
+"Neutrofilos","Control",-0.3012,0.0035,192
+"Neutrofilos","D21",-0.2152,0.0109,289
+"Neutrofilos","D42",-0.2726,0.0051,233
+"Neutrofilos","D63",-0.2542,-0.0015,212
+"Celulas em proliferacao","Control",-0.3328,-0.0767,49
+"Celulas em proliferacao","D21",-0.3042,-0.062,73
+"Celulas em proliferacao","D42",-0.3333,-0.0781,42
+"Celulas em proliferacao","D63",-0.2982,-0.0842,40
+"Linfocitos T naive / CD8","Control",-0.3497,-0.0509,305
+"Linfocitos T naive / CD8","D21",-0.2959,-0.0372,318
+"Linfocitos T naive / CD8","D42",-0.3547,-0.0447,420
+"Linfocitos T naive / CD8","D63",-0.3106,-0.0381,292
+"Linfocitos T efetores / Treg","Control",-0.3976,-0.0567,152
+"Linfocitos T efetores / Treg","D21",-0.3291,-0.0439,305
+"Linfocitos T efetores / Treg","D42",-0.3696,-0.0475,261
+"Linfocitos T efetores / Treg","D63",-0.341,-0.0445,297
+"Celulas NK","Control",-0.4143,-0.0622,206
+"Celulas NK","D21",-0.3466,-0.0459,178
+"Celulas NK","D42",-0.3924,-0.0471,112
+"Celulas NK","D63",-0.3641,-0.053,140
+"Linfocitos B","Control",-0.3752,-0.0522,503
+"Linfocitos B","D21",-0.3006,-0.0424,511
+"Linfocitos B","D42",-0.3698,-0.0474,641
+"Linfocitos B","D63",-0.3267,-0.0394,584
+"Plasmocitos","Control",-0.4231,-0.0661,22
+"Plasmocitos","D21",-0.3474,-0.0608,42
+"Plasmocitos","D42",-0.3777,-0.0704,22
+"Plasmocitos","D63",-0.3375,-0.0338,24
+"Baixa qualidade / RNA ambiente","Control",0.0438,-0.0089,196
+"Baixa qualidade / RNA ambiente","D21",0.0917,-8e-04,144
+"Baixa qualidade / RNA ambiente","D42",0.0417,0.0138,122
+"Baixa qualidade / RNA ambiente","D63",0.0078,0.0017,193
+"Doublets provaveis (linfocito + endotelio)","Control",-0.349,-0.0471,20
+"Doublets provaveis (linfocito + endotelio)","D21",-0.2917,-0.0517,26
+"Doublets provaveis (linfocito + endotelio)","D42",-0.2671,-0.0486,35
+"Doublets provaveis (linfocito + endotelio)","D63",-0.3354,-0.045,28

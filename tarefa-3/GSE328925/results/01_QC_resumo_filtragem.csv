@@ -1,0 +1,5 @@
+"sample","label","genes_detectados","celulas_brutas","celulas_pos_QC","pct_aprovadas","celulas_usadas"
+"Control","Salina (controle)",23341,16276,12532,77,5000
+"D21","Bleomicina D21",23731,19502,15604,80,5000
+"D42","Bleomicina D42",23498,18032,14616,81.1,5000
+"D63","Bleomicina D63",22955,18947,13921,73.5,5000

@@ -1,0 +1,26 @@
+"tipo_celular","Control","D21","D42","D63"
+"Epitelio AT2 / Club",4.52,2.7,2.86,3.48
+"Epitelio AT1",2.06,1.46,1.96,1.96
+"Celulas ciliadas",0.36,0.38,0.26,0.4
+"Endotelio capilar geral (gCap)",19.92,16.76,17.9,19.92
+"Endotelio aerocito (aCap / Car4+)",5.28,4.22,5.9,4.26
+"Endotelio venoso",2.26,2.48,1.92,2.74
+"Endotelio linfatico",1.02,0.76,0.96,0.8
+"Fibroblastos alveolares",11.18,9.98,9.68,11.78
+"Fibroblastos adventiciais",2.24,1.3,1.58,1.66
+"Musculo liso",1.9,1.46,1.38,1.28
+"Pericitos",1.88,1.2,0.88,1.04
+"Mesotelio",0.32,0.2,0.4,0.4
+"Macrofagos alveolares",5.92,7.08,6.62,5.14
+"Macrofagos intersticiais",0.9,3.96,2.5,2.14
+"Monocitos",5.38,5.16,4.76,4.82
+"Celulas dendriticas",1.96,3.18,2.68,1.98
+"Neutrofilos",3.84,5.78,4.66,4.24
+"Celulas em proliferacao",0.98,1.46,0.84,0.8
+"Linfocitos T naive / CD8",6.1,6.36,8.4,5.84
+"Linfocitos T efetores / Treg",3.04,6.1,5.22,5.94
+"Celulas NK",4.12,3.56,2.24,2.8
+"Linfocitos B",10.06,10.22,12.82,11.68
+"Plasmocitos",0.44,0.84,0.44,0.48
+"Baixa qualidade / RNA ambiente",3.92,2.88,2.44,3.86
+"Doublets provaveis (linfocito + endotelio)",0.4,0.52,0.7,0.56
